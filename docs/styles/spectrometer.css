@@ -1,5 +1,5 @@
 .logpage {
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: Comic Sans MS, sans-serif;
 	font-size: 100%;
    	background-color: #FFFFFF;
    	color: #000000;
@@ -8,7 +8,7 @@
 }
 
 .logpage a:link a:visited a:active {
-	color: #222222;
+	color: #222222; 
 	text-decoration: underline;
 }
 
@@ -18,7 +18,7 @@
 }
 
 .logpage hr {
-	color: #DDDDDD;
+	color: #DDDDDD; 
 }
 
 .logpage table {
@@ -30,7 +30,7 @@
 	margin: 5px;
 	vertical-align: top;
 	border: 1px solid #999;
-	background-color: #EEEEEE;
+	background-color: #e4eded; /* Sea Salt */
 }
 
 .logpage th {
@@ -72,7 +72,7 @@
 	font-size: 110%;
 	text-align: center;
 	color: #000055;
-	background-color: #DDDDDD;
+	background-color: #DDDDDD; 
 	padding: 10px;
 }
 
@@ -81,7 +81,7 @@
 	height: auto;
 }
 .logpage button {
-	background-color: #4CAF50; /* Green */
+	background-color: #73c5c9; /* Blue */
 	border: none;
 	color: white;
 	margin-top: 10px;
